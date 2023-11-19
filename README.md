@@ -1,3 +1,5 @@
+![My picture with a text: "Hi, I'm Julia Mello. Creative Front-end Developer & UI Designer"](/src/img/readme-img.png)
+
 # Hi there! 👋
 
 I'm Julia Piza de Mello Campos, a passionate front-end developer from Brazil. Welcome to my GitHub profile!
