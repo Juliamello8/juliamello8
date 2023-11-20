@@ -16,9 +16,9 @@ I'm Julia Piza de Mello Campos, a passionate front-end developer from Brazil. We
 
 Here are some of the projects I'm proud of:
 
-- [Bum Users](https://www.bumusers.com): Website developed for the dissemination of the Bum User App project, which allows promotions, discounts and sweepstakes directly on the map. I'm proud of this project because I not just code all the website but I'm also created all the website design on Figma. 
-- [Caramelou](https://github.com/Juliamello8/app-caramelou): Project developed for the course conclusion work of the Systems Analysis and Development with my friend and classmate Rafael Vicente de Souza. It is a collaborative project with the aim of, with the collaboration of animal records, finding a home for strays or finding lost dogs from their owners. Click on the link to check the project repository!
-- Love-able: App mobile developed with Flutter for the April 9 company. It was my first mobile project that I work in a company. This project is an app to desabilities people to find partners, friends, curses and events. I've learn a lot with and I create many features and functionalities that I've happy with!
+- [Bum Users](https://www.bumusers.com): Website developed for the dissemination of the Bum User App project, which allows promotions, discounts and sweepstakes directly on the map. I'm proud of this project because was my first entire website build. I created all the website design on Figma and I code all the website and animations. 
+- [Caramelou](https://github.com/Juliamello8/app-caramelou): Project developed for the course conclusion work of the Systems Analysis and Development with my friend and classmate Rafael Vicente de Souza. It is a collaborative project with the aim of, with the collaboration of animal records, finding a home for strays animals or finding lost animais from their owners. Click on the link to check the project repository!
+- Love-able: App mobile developed with Flutter for the April 9 company. It was my first mobile project from a client. This project is an app to motivate desabilities people to find partners, friends, courses and events. I've learn a lot with and I create many features and functionalities that I've happy with! 
 
 ## Skills
 
