@@ -31,10 +31,10 @@ Here are some of the projects I'm proud of:
 
 ## Get in Touch
 
-- 📧 [My Email](mailto:juliainline@gmail.com)
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/julia-mello/)
-- 🌐 [My Website](https://j-mello.com)
-- 📸 [My Instagram](https://www.instagram.com/xumello)
+- 📧 [Email](mailto:juliainline@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julia-mello/)
+- 🌐 [Website](https://j-mello.com)
+- 📸 [Instagram](https://www.instagram.com/xumello)
 
 Feel free to explore my projects, connect with me on LinkedIn, or drop me an email. I'm always open to new opportunities and collaborations!
 
