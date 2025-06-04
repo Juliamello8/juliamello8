@@ -8,7 +8,7 @@ I'm Julia Piza de Mello Campos, a passionate front-end developer from Brazil. We
 
 - 👨‍💻 I'm a front-end developer with a love for crafting web experiences.
 - 🌐 I'm passionate about web technologies, including HTML, CSS, and Typescript, ReactJs and NextJs.
-- 🌱 I'm learning mobile developing with Flutter framework and Dark language and I'm enjoying it a lot!
+- 🌱 I'm learning mobile developing with Flutter framework and Dart language and I'm enjoying it a lot!
 - 🚀 I enjoy building user-friendly and responsive web applications.
 - 📚 I'm constantly learning and exploring new trends in web development.
 
