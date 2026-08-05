@@ -1,4 +1,4 @@
-![Julia Mello — Designer & Full-stack Developer](/src/img/readme-img.png)
+![Julia Mello — Designer & Full-stack Developer](/src/img/bg.png)
 
 # Hi there! 👋
 
