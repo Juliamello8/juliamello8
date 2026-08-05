@@ -1,41 +1,49 @@
-![My picture with a text: "Hi, I'm Julia Mello. Creative Front-end Developer & UI Designer"](/src/img/readme-img.png)
+![Julia Mello — Designer & Full-stack Developer](/src/img/readme-img.png)
 
 # Hi there! 👋
 
-I'm Julia Piza de Mello Campos, a passionate front-end developer from Brazil. Welcome to my GitHub profile!
+I'm **Julia Piza de Mello Campos** — designer and full-stack developer from Curitiba, Brazil, currently **Tech Lead** of a development team at the Legislative Assembly of Paraná (ALEP).
+
+I work at the intersection of design and engineering: I design the experience, model the database, and write the front and the back end. Most of my career has been about building systems that are accessible, reliable and clear at the same time — public portals, document management platforms, products with purpose.
+
+🌐 **Portfolio:** [jumello.me](https://jumello.me)
 
 ## About Me
 
-- 👨‍💻 I'm a front-end developer with a love for crafting web experiences.
-- 🌐 I'm passionate about web technologies, including HTML, CSS, and Typescript, ReactJs and NextJs.
-- 🌱 I'm learning mobile developing with Flutter framework and Dart language and I'm enjoying it a lot!
-- 🚀 I enjoy building user-friendly and responsive web applications.
-- 📚 I'm constantly learning and exploring new trends in web development.
+- 🧭 Tech Lead at ALEP, leading development on public-sector systems
+- 🎯 Design + engineering: from Figma to database modeling to production
+- ⚙️ Laravel/PHP and MySQL on the back, React/Next.js and Tailwind on the front
+- ♿ Accessibility (WCAG, VLibras) as a requirement, not an add-on
+- 🏛️ Civic tech and transparency: public data that's actually findable and understandable
+- 🚀 Co-founder of a tech company and of a family handcraft studio
 
-## Projects
+## Selected Work
 
-Here are some of the projects I'm proud of:
+- **[Portal da Transparência · ALEP](https://transparencia.assembleia.pr.leg.br/)** — Redesign and development of Paraná's legislative transparency portal. Rebuilt the information architecture around what citizens actually look for, with real-time SIAFIC integration. Scored 100% on Atricon's audit criteria and earned the Selo Diamante, the highest rating.
+- **[TradeSaaS / Iarandu](https://www.iarandu.com.br/)** — Document management SaaS for the trade marketing operation of one of Paraná's largest advertising agencies. Multi-role approval flows (supplier, operations, management), each with its own permissions and views. 900+ users and 3,800+ documents generated.
+- **[Educando · Worldfund](https://edu.educando.org/)** — Product design for EdTech collaboration tools: user research, competitor analysis and concept work for a new student-facing platform. Related work at April9 on Loveable, a social network with online courses for people with disabilities.
+- **[Link Sinistros](https://link-sinitstros.vercel.app/)** — Institutional site in Next.js 15 with an SVG map of Brazil for national coverage, 3D product carousel and an integrated accessibility widget.
 
-- [Bum Users](https://www.bumusers.com): Website developed for the dissemination of the Bum User App project, which allows promotions, discounts and sweepstakes directly on the map. I'm proud of this project because was my first entire website build. I created all the website design on Figma and I code all the website and animations. 
-- [Caramelou](https://github.com/Juliamello8/app-caramelou): Project developed for the course conclusion work of the Systems Analysis and Development with my friend and classmate Rafael Vicente de Souza. It is a collaborative project with the aim of, with the collaboration of animal records, finding a home for strays animals or finding lost animais from their owners. Click on the link to check the project repository!
-- Love-able: App mobile developed with Flutter for the April 9 company. It was my first mobile project from a client. This project is an app to motivate desabilities people to find partners, friends, courses and events. I've learn a lot with and I create many features and functionalities that I've happy with! 
+More case studies at [jumello.me](https://jumello.me).
 
 ## Skills
 
-- 💻 HTML, CSS, JavaScript, Typescript, Dart
-- 🖼️ Responsive web design
-- 🚀 Front-end frameworks ReactJs and NextJs
-- 🚀 Mobile frameworks Flutter and React Native
-- 📦 Package managers: npm and yarn
-- 🛠️ Version control: Git
+**Design** — Figma · Adobe · UI/UX · visual identity · design systems  
+**Front-end** — React · Next.js · JavaScript · TypeScript · Tailwind CSS · Framer Motion  
+**Back-end** — Laravel · PHP · MySQL · REST APIs  
+**Also** — Git & GitLab · responsive design · WCAG accessibility · Flutter/Dart
+
+## Background
+
+Design at UFPR (2016), then Systems Analysis and Development (2021). Web designer → front-end → full-stack → tech lead. The double path is what defines how I work: I think through the experience and build what's underneath it.
 
 ## Get in Touch
 
 - 📧 [Email](mailto:juliainline@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julia-mello/)
-- 🌐 [Website](https://j-mello.com)
+- 🌐 [Portfolio](https://jumello.me)
 - 📸 [Instagram](https://www.instagram.com/xumello)
 
-Feel free to explore my projects, connect with me on LinkedIn, or drop me an email. I'm always open to new opportunities and collaborations!
+Open to freelance projects, partnerships and collaborations — in Brazil and abroad.
 
 Happy coding! 🚀
